@@ -9,7 +9,6 @@
 #import "AndroidToast.h"
 
 #define RGBA(r,g,b,a)   [UIColor colorWithRed:(float)r/255.0f green:(float)g/255.0f blue:(float)b/255.0f alpha:a]
-//用于反白
 #define color_White RGBA(255,255,255,1)
 #define font_Hint   [UIFont systemFontOfSize:12]
 
